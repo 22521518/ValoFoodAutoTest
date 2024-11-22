@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CommentData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>78f5de78-25ee-4a03-b178-62d6a3aa4229</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Delicious+food Should+be+visited+next+time 9 %C4%90%C3%A3+%C4%91%C4%83ng+b%C3%ACnh+lu%E1%BA%ADn</data>
+   <data>Delicious+food null 9 H%C3%A3y+nh%E1%BA%ADp+n%E1%BB%99i+dung</data>
+   <data>Delicious+food Should+be+visited+next+time null H%C3%A3y+nh%E1%BA%ADp+%C4%91i%E1%BB%83m</data>
+   <data>Delicious+food Should+be+visited+next+time 11 %C4%90i%E1%BB%83m+ph%E1%BA%A3i+t%E1%BB%AB+0-10</data>
+   <data>null Should+be+visited+next+time 9 H%C3%A3y+nh%E1%BA%ADp+ti%C3%AAu+%C4%91%E1%BB%81</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>title</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>content</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>score</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>message</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
