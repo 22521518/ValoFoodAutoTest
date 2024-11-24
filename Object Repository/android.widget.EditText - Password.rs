@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.EditText</value>
-      <webElementGuid>fc95921d-9410-450b-a0f4-031622f2f19a</webElementGuid>
+      <webElementGuid>cb670750-d0d2-45aa-a01b-05a77d54d73d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>b350c1a1-19d2-4349-b3ff-a8383ea1dd54</webElementGuid>
+      <webElementGuid>07662430-8585-4f5d-9a98-b97031a57793</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>12e7f974-7cfd-4b60-b2bc-0c6400f2d55a</webElementGuid>
+      <webElementGuid>d76588b5-7111-4e21-9e82-e90662fc20d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.example.didong_foodapp:id/Pass</value>
-      <webElementGuid>de4baa8c-98cc-48d7-9bd0-8af910bd821e</webElementGuid>
+      <webElementGuid>665e665a-4c8c-4f29-a7ca-b393f256d30b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.example.didong_foodapp</value>
-      <webElementGuid>af3d3e29-d5aa-4655-acfa-c4278356739e</webElementGuid>
+      <webElementGuid>bbb0e84e-b5bb-407e-9078-23d14f36b9b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5ebb3717-6849-4a92-af13-031a076e56e0</webElementGuid>
+      <webElementGuid>8775d2a4-0bee-4393-b266-2de355853310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>52cab469-9083-49de-b429-4b461d081ee8</webElementGuid>
+      <webElementGuid>fddbd091-fb7d-4e11-9b76-36db2898f600</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1bc3fa9c-b983-43e0-9ed5-a770179b05e0</webElementGuid>
+      <webElementGuid>50a36982-98ec-42c9-9bcb-09940b871ae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0e79848c-df21-4107-bdcf-9e0670b77e3b</webElementGuid>
+      <webElementGuid>b1fa442a-8a19-4532-b020-aea0955fd154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>dc37b28c-c2c0-4628-8abe-50267d6851c8</webElementGuid>
+      <webElementGuid>6fa620a3-b025-41f0-8e79-8ec95b752aad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ba57b5d2-b6bd-4a96-9052-1ebfe3ee8909</webElementGuid>
+      <webElementGuid>f227c93c-a59f-42d1-bbb7-89250fb07584</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e5824eab-9f04-48d1-8369-9e44f4969d7a</webElementGuid>
+      <webElementGuid>1d3a309e-7027-48a8-9552-a031cf085c0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c7103cb6-ac0e-49bd-81e8-1c4b002d203a</webElementGuid>
+      <webElementGuid>50275ace-0115-47f1-a880-e81cc031798b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5e1c9c95-4543-421f-85ae-02697a087cf4</webElementGuid>
+      <webElementGuid>9fc85306-8256-4ffb-8979-12173daedcec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,47 +125,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5c77b4ee-4d8c-4648-916b-f85302716070</webElementGuid>
+      <webElementGuid>04e24c2c-db85-44b8-bd2e-539ceae9e994</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>134</value>
-      <webElementGuid>6b8b3a4f-f7f7-4082-a81e-96ad0754a258</webElementGuid>
+      <value>108</value>
+      <webElementGuid>a0b58b31-69a0-4dcc-bbd2-e1ec7af5c1d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1122</value>
-      <webElementGuid>a6362ef1-2748-454d-b1ec-99520c289c34</webElementGuid>
+      <value>914</value>
+      <webElementGuid>3e87f80e-f701-49e8-8fc3-1405ec01b388</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>1076</value>
-      <webElementGuid>5fb8822a-9105-4164-babf-e865a8df856f</webElementGuid>
+      <value>864</value>
+      <webElementGuid>93cf5436-242a-4329-9cdd-aa7501676e45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>180</value>
-      <webElementGuid>11854c03-90ed-4799-808c-83e25dc82656</webElementGuid>
+      <value>158</value>
+      <webElementGuid>0c867dfc-b441-47da-8424-ab3524f69c91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[134,1122][1210,1302]</value>
-      <webElementGuid>6ebb9898-fb70-4fa8-b1d6-cf1e9ceb072d</webElementGuid>
+      <value>[108,914][972,1072]</value>
+      <webElementGuid>017315b3-5088-400f-b7d8-69e3305cab26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>18d24d9c-e3d1-4ac5-8e49-18c5a5e3dea7</webElementGuid>
+      <webElementGuid>0d5fa5ce-0f68-48eb-ba2a-6ce8fc967091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>hint</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>9286b56d-4f80-42e3-8111-271a1d26d80d</webElementGuid>
+      <webElementGuid>7ff7c111-a282-49b0-94ed-4043bbb576e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -189,24 +189,10 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[2]</value>
-      <webElementGuid>4a607c87-eca1-42b2-a9be-d1cdde660a79</webElementGuid>
+      <webElementGuid>69b100e2-5373-4f64-aca4-5879279663ca</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.EditText' and (@text = 'Password' or . = 'Password') and @resource-id = 'com.example.didong_foodapp:id/Pass']</locator>
    <locatorCollection>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.widget.EditText</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-      </entry>
-      <entry>
-         <key>NAME</key>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[2]</value>
-      </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
       </entry>
@@ -215,24 +201,38 @@
          <value>//*[@class = 'android.widget.EditText' and (@text = 'Password' or . = 'Password') and @resource-id = 'com.example.didong_foodapp:id/Pass']</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.EditText[2]</value>
       </entry>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
+         <key>IMAGE</key>
       </entry>
       <entry>
          <key>ID</key>
          <value>com.example.didong_foodapp:id/Pass</value>
       </entry>
       <entry>
-         <key>IMAGE</key>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).text(&quot;Password&quot;).resourceId(&quot;com.example.didong_foodapp:id/Pass&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(3)</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
       </entry>
       <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).text(&quot;Password&quot;).resourceId(&quot;com.example.didong_foodapp:id/Pass&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(3)</value>
+         <key>NAME</key>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.widget.EditText</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+      </entry>
+      <entry>
+         <key>ACCESSIBILITY</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
