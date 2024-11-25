@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.ImageView</name>
+   <name>android.widget.Button - t hng</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,24 +12,32 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>android.widget.ImageView</value>
-      <webElementGuid>64cb08b7-4ac8-431b-8942-53788d9f223a</webElementGuid>
+      <value>android.widget.Button</value>
+      <webElementGuid>a001893d-163f-49c5-b6ac-b35d6daa62c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>574eff90-afc2-4d1b-bd67-57c3725a7046</webElementGuid>
+      <value>6</value>
+      <webElementGuid>1dd6f470-b480-4eaf-8b2a-665ce023e739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đặt hàng</value>
+      <webElementGuid>7366e3ac-3872-478e-a38e-ba171a1e300c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.example.didong_foodapp:id/imageLocation</value>
-      <webElementGuid>9239180b-21fa-4eb2-b90b-a1eeb758a3b1</webElementGuid>
+      <value>com.example.didong_foodapp:id/button_newOrder</value>
+      <webElementGuid>4f948505-4b4b-4abf-a62e-68da3b13aa43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.example.didong_foodapp</value>
-      <webElementGuid>17fc7266-7931-4d9b-9a66-e63191afadc6</webElementGuid>
+      <webElementGuid>acb2f04e-85d9-4e68-9ab7-17acf96fde26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>058f1e56-9f09-44c0-99aa-24a595d43d94</webElementGuid>
+      <webElementGuid>06f82678-accb-47d5-a2e0-f47ae7323ff5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +61,15 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c93897a5-e172-47a1-a0dc-d3d04628e936</webElementGuid>
+      <webElementGuid>513628de-9243-4af1-8613-e9e266de4510</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>c9676979-4263-42e2-bd46-ecc04540e8fa</webElementGuid>
+      <value>true</value>
+      <webElementGuid>8f2664b9-379a-4a23-a08f-9af912cc3187</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +77,15 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>77b88f99-4987-4d30-8209-851fcf603f57</webElementGuid>
+      <webElementGuid>e24a4f19-c56e-4a27-b29c-1e8a1ede6d4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focusable</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>136bd219-72f9-4be1-9a21-8a7d15601e4b</webElementGuid>
+      <value>true</value>
+      <webElementGuid>d2c51d8b-7a74-43b3-b013-a83886bbd627</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6f86d1c5-b0dd-4688-8b97-35bc48d6cb7e</webElementGuid>
+      <webElementGuid>d9905dd4-9b58-43ba-943d-5ad8c6a2f08c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>51251217-f9ae-4051-ada0-7df6eb60814b</webElementGuid>
+      <webElementGuid>9a834720-b0b5-4153-88a8-02701bf66e73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1dcfe817-9008-4251-a45c-8163324f67f8</webElementGuid>
+      <webElementGuid>3d1124c4-a777-430f-81ea-c1935344f76c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9a3679ee-e0e4-4acc-9ac0-a0440ad429ce</webElementGuid>
+      <webElementGuid>7393d38a-f598-4ad3-9032-94ee7683d095</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,47 +125,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1fb3869a-57c7-4e71-b542-937eafafb6af</webElementGuid>
+      <webElementGuid>7e16d670-57b7-4a3e-ac8a-584df735ff60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>21</value>
-      <webElementGuid>691b588c-8538-4db5-8a35-98ea6ff49d92</webElementGuid>
+      <value>129</value>
+      <webElementGuid>08325357-fac3-46df-b81d-2358c03d7f6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>424</value>
-      <webElementGuid>7c9ee5ab-4029-4dcb-a24b-901f71cff9ec</webElementGuid>
+      <value>2022</value>
+      <webElementGuid>22715a54-b0a4-41b1-9472-44caaf6fde2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>1038</value>
-      <webElementGuid>ca40084f-54fc-4b97-bd18-e8dd2a419cce</webElementGuid>
+      <value>822</value>
+      <webElementGuid>5bc214b8-a738-472f-9f83-af093ce73c47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>656</value>
-      <webElementGuid>367f3bec-d860-4046-8713-74e37b9aa365</webElementGuid>
+      <value>158</value>
+      <webElementGuid>4588e404-4e28-4669-b1b4-9fbe4c543aa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[21,424][1059,1080]</value>
-      <webElementGuid>03b53dbe-3e52-4463-9225-c2feffb1bc06</webElementGuid>
+      <value>[129,2022][951,2180]</value>
+      <webElementGuid>78e5152e-6c06-4641-9fc9-21e90a569935</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,66 +173,65 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b0a8c96d-8b24-4fe7-a02c-1605e4ae63f4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value></value>
-      <webElementGuid>ec9e946b-8179-48c1-a703-fbb84c4bc2a7</webElementGuid>
+      <webElementGuid>74a51fdd-0f5c-4a96-9a87-eb7a90534d2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.ImageView[1]</value>
-      <webElementGuid>52e432f5-9b31-458e-b33b-b4a594c36e31</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.Button[1]</value>
+      <webElementGuid>0a57e5ab-e689-47aa-975a-21121d4c2b9b</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.example.didong_foodapp:id/imageLocation' and (@text = '' or . = '')]</locator>
+   <locator>//*[@class = 'android.widget.Button' and (@text = 'Đặt hàng' or . = 'Đặt hàng') and @resource-id = 'com.example.didong_foodapp:id/button_newOrder']</locator>
    <locatorCollection>
       <entry>
          <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CUSTOM</key>
+         <value></value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
+         <value></value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
+         <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
+         <value></value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.example.didong_foodapp:id/imageLocation' and (@text = '' or . = '')]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.ImageView[1]</value>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.ImageView&quot;).resourceId(&quot;com.example.didong_foodapp:id/imageLocation&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
+         <value>//*[@class = 'android.widget.Button' and (@text = 'Đặt hàng' or . = 'Đặt hàng') and @resource-id = 'com.example.didong_foodapp:id/button_newOrder']</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
-         <value>android.widget.ImageView</value>
+         <value>android.widget.Button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.Button[1]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.widget.Button&quot;).text(&quot;Đặt hàng&quot;).resourceId(&quot;com.example.didong_foodapp:id/button_newOrder&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(6)</value>
       </entry>
       <entry>
          <key>NAME</key>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
          <key>ID</key>
-         <value>com.example.didong_foodapp:id/imageLocation</value>
+         <value>com.example.didong_foodapp:id/button_newOrder</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
