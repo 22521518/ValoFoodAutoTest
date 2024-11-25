@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>android.widget.EditText - im (0-10)</name>
+   <name>android.widget.EditText - Tiu  (khng bt buc)</name>
    <tag></tag>
-   <elementGuidId>3491572a-b9b7-45ae-b3af-128f35d948ca</elementGuidId>
+   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,31 +13,31 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.EditText</value>
-      <webElementGuid>33991dc5-e508-4ba4-ad4b-a37e6c07eb85</webElementGuid>
+      <webElementGuid>0d0b4ffa-a572-45f1-ab8f-4bfcb00d86b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>9023c63a-db13-4737-9428-e048021af7ac</webElementGuid>
+      <value>0</value>
+      <webElementGuid>1d25682c-35f2-447e-a890-f29a76ed5978</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Điểm (0-10)</value>
-      <webElementGuid>f65aff9e-d587-4f0d-94e8-cf571caf3f52</webElementGuid>
+      <value>Tiêu đề (không bắt buộc)</value>
+      <webElementGuid>f89a8dfd-5827-46de-b831-73a9594c19f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>resource-id</name>
       <type>Main</type>
-      <value>com.example.didong_foodapp:id/editTextScore</value>
-      <webElementGuid>74c9f70d-d21b-4ca3-a9df-641eb2e8a4b1</webElementGuid>
+      <value>com.example.didong_foodapp:id/editTextTitle</value>
+      <webElementGuid>8626277c-4a15-4bf0-8561-aab52748323f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.example.didong_foodapp</value>
-      <webElementGuid>cee32e80-eb69-4fe8-95f3-510192ddb207</webElementGuid>
+      <webElementGuid>e7995825-dd5d-4919-8eff-6ca89dca1dd3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2d4e5101-f427-4e38-abfc-4a084cdd21af</webElementGuid>
+      <webElementGuid>e9c8f444-35fc-4604-9d06-cdff93fee44c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>082b6511-14ee-4ce7-a09f-574f730611b7</webElementGuid>
+      <webElementGuid>22855475-1246-46df-8f8c-49f90c723cc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>fd200108-85a4-45c7-9cf3-cb5b97dafe18</webElementGuid>
+      <webElementGuid>7af48b85-134a-4597-82bd-0a7bda2db51b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>65cd9e72-d0b2-49b1-a29c-30b42a422313</webElementGuid>
+      <webElementGuid>c4e962af-23a5-4e6d-a071-6d43b417c38c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a63331a1-5ad8-4105-94c8-e34bcec18bc2</webElementGuid>
+      <webElementGuid>057646c5-00f1-4618-8f98-36d3d51d9f07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>focused</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>fdf351a7-5096-4bbb-8092-ec153d15bc3e</webElementGuid>
+      <value>true</value>
+      <webElementGuid>8178f8a0-dc8e-4d2b-ab79-58951eb2903c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4f938a0a-9b1a-439b-9379-52a70e4308ae</webElementGuid>
+      <webElementGuid>945ab7bb-d752-4454-b56c-ad4fca596f91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>5d9b0426-f7c5-4d4a-a89f-be95deef9ab5</webElementGuid>
+      <webElementGuid>a3f79486-538b-478b-ad2c-a738d89c64be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c6d4a5af-13c5-4cfd-a921-68b16e92673e</webElementGuid>
+      <webElementGuid>cd68425a-cc85-427e-b750-6695e447bdb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,15 +125,15 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c79dc896-8c45-4e79-ab18-d2034cbf5eb3</webElementGuid>
+      <webElementGuid>b44c4ec9-4579-4fc6-a39a-4286a70cd9cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>974</value>
-      <webElementGuid>9f55ec8a-9c43-4480-912e-f2dcae145262</webElementGuid>
+      <value>15</value>
+      <webElementGuid>dd26e513-7da4-4845-9b77-41b3cf81d79b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,15 +141,15 @@
       <name>y</name>
       <type>Main</type>
       <value>541</value>
-      <webElementGuid>c158eefc-9ff0-4fc1-9e32-f871facf82b5</webElementGuid>
+      <webElementGuid>151610fd-cbc4-4429-aed0-44136e470169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>340</value>
-      <webElementGuid>0ffb79d1-d49e-4b57-9f04-8db71898cf07</webElementGuid>
+      <value>693</value>
+      <webElementGuid>3bfa03fc-a8e3-4095-b962-05039beceec6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,15 +157,15 @@
       <name>height</name>
       <type>Main</type>
       <value>144</value>
-      <webElementGuid>88a13b1b-0882-47c8-a6b7-49ac210bf36a</webElementGuid>
+      <webElementGuid>e325cf11-8ccd-4441-b6a8-4b86d9357fbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[974,541][1314,685]</value>
-      <webElementGuid>38741283-7bb9-4f50-a941-6180c7b54010</webElementGuid>
+      <value>[15,541][708,685]</value>
+      <webElementGuid>6a9850ac-c706-450f-84d4-a60ddc5c828c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,45 +173,49 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e4889f27-1b57-472c-b497-c31e04f22835</webElementGuid>
+      <webElementGuid>9e651895-a5b0-4d6a-a5b3-f9c3af422cd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>hint</name>
       <type>Main</type>
-      <value>Điểm (0-10)</value>
-      <webElementGuid>59301a25-0ed8-4015-977a-8acd9cec8121</webElementGuid>
+      <value>Tiêu đề (không bắt buộc)</value>
+      <webElementGuid>8a471665-6c97-4730-a670-5ed61ed3022c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.EditText[2]</value>
-      <webElementGuid>a42ea527-d3bb-4551-8371-06e01f478dd0</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.EditText[1]</value>
+      <webElementGuid>021484e0-14ba-47ff-acee-ea1268fc45c7</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.EditText' and (@text = 'Điểm (0-10)' or . = 'Điểm (0-10)') and @resource-id = 'com.example.didong_foodapp:id/editTextScore']</locator>
+   <locator>//*[@class = 'android.widget.EditText' and (@text = 'Tiêu đề (không bắt buộc)' or . = 'Tiêu đề (không bắt buộc)') and @resource-id = 'com.example.didong_foodapp:id/editTextTitle']</locator>
    <locatorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.EditText[2]</value>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.LinearLayout[2]/android.widget.EditText[1]</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
+         <value></value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
+         <value></value>
       </entry>
       <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).text(&quot;Điểm (0-10)&quot;).resourceId(&quot;com.example.didong_foodapp:id/editTextScore&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
+         <value>new UiSelector().className(&quot;android.widget.EditText&quot;).text(&quot;Tiêu đề (không bắt buộc)&quot;).resourceId(&quot;com.example.didong_foodapp:id/editTextTitle&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(true).longClickable(true).checkable(false).checked(false).focusable(true).focused(true).scrollable(false).selected(false).index(0)</value>
       </entry>
       <entry>
          <key>NAME</key>
+         <value></value>
       </entry>
       <entry>
          <key>CUSTOM</key>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
@@ -219,20 +223,23 @@
       </entry>
       <entry>
          <key>ID</key>
-         <value>com.example.didong_foodapp:id/editTextScore</value>
+         <value>com.example.didong_foodapp:id/editTextTitle</value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.EditText' and (@text = 'Điểm (0-10)' or . = 'Điểm (0-10)') and @resource-id = 'com.example.didong_foodapp:id/editTextScore']</value>
+         <value>//*[@class = 'android.widget.EditText' and (@text = 'Tiêu đề (không bắt buộc)' or . = 'Tiêu đề (không bắt buộc)') and @resource-id = 'com.example.didong_foodapp:id/editTextTitle']</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
+         <value></value>
       </entry>
       <entry>
          <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

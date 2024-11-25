@@ -30,7 +30,7 @@ Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOGIN'), 0)
 
 WebUI.delay(5)
 
-Mobile.tap(findTestObject('Object Repository/android.view.ViewGroup'), 0)
+Mobile.tap(findTestObject('android.widget.FrameLayout (1)'), 0)
 
 WebUI.delay(3)
 

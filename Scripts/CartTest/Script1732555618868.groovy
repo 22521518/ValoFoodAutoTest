@@ -16,45 +16,47 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
-import io.appium.java_client.AppiumDriver as AppiumDriver
-import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 Mobile.startApplication('C:\\Users\\duong\\AndroidStudioProjects\\Food_App\\app\\build\\outputs\\apk\\debug\\app-debug.apk', 
     true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - SIGN IN'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Email'), 'duongminhhien14@gmail.com', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Email'), 'duongtx2@gmail.com', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Password'), '123456', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOGIN'), 0)
 
+WebUI.delay(5)
+
 Mobile.tap(findTestObject('android.widget.FrameLayout (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Bnh lun'), 0)
+Mobile.scrollToText('Giỏ Hàng')
 
-WebUI.delay(3)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Tiu  (khng bt buc)'), title, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - im (0-10)'), score, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - GI HNG'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Vit trn 100 t, ng chnh t, ngn t vn ha  c im thng'), 
-    content, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Gi'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (2)'), 0)
 
-AppiumDriver<?> driver = MobileDriverFactory.getDriver()
+Mobile.tap(findTestObject('Object Repository/android.widget.RadioButton'), 0)
 
-def toast = driver.findElementByXPath(('//android.widget.Toast[@text=\'' + message) + '\']')
+Mobile.tap(findTestObject('android.view.ViewGroup (2)'), 0)
 
-if (toast == null) {
-    KeywordUtil.markFailed('ERROR: Toast object not found!')
-}
+Mobile.scrollToText('Giỏ Hàng')
 
-WebUI.delay(3)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - GI HNG'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (1)'), 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView (1)'), 0)
 
 Mobile.closeApplication()
 
