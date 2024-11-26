@@ -16,9 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
-import io.appium.java_client.AppiumDriver as AppiumDriver
-import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 Mobile.startApplication('C:\\Users\\duong\\AndroidStudioProjects\\Food_App\\app\\build\\outputs\\apk\\debug\\app-debug.apk', 
     true)
@@ -31,30 +28,21 @@ Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Passw
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOGIN'), 0)
 
+WebUI.delay(5)
+
 Mobile.tap(findTestObject('android.widget.FrameLayout (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Bnh lun'), 0)
-
 WebUI.delay(3)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Tiu  (khng bt buc)'), title, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Thch'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - im (0-10)'), score, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Lu'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Vit trn 100 t, ng chnh t, ngn t vn ha  c im thng'), 
-    content, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageButton'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Gi'), 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.RadioButton'), 0)
 
-AppiumDriver<?> driver = MobileDriverFactory.getDriver()
-
-def toast = driver.findElementByXPath(('//android.widget.Toast[@text=\'' + message) + '\']')
-
-if (toast == null) {
-    KeywordUtil.markFailed('ERROR: Toast object not found!')
-}
-
-WebUI.delay(3)
+Mobile.tap(findTestObject('Object Repository/android.view.ViewGroup'), 0)
 
 Mobile.closeApplication()
 
