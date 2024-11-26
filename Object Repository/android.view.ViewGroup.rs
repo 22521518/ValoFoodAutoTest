@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.view.ViewGroup</value>
-      <webElementGuid>08990418-d1a1-49ed-ad92-2129f9a30fb5</webElementGuid>
+      <webElementGuid>e9dd5393-5f57-4ab3-bc63-d2757be1d09c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d6f1ac6f-fae6-4a1a-b3ed-e793e0733a92</webElementGuid>
+      <webElementGuid>93fdbadb-2133-4099-aa10-31497a20365f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.example.didong_foodapp</value>
-      <webElementGuid>d971dacb-9f46-49bf-8fe9-c12b993287e4</webElementGuid>
+      <webElementGuid>2d3fe29b-bd18-4e7a-8ddc-24b819566bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>18eefc57-1806-487a-a94e-4062322b1a3a</webElementGuid>
+      <webElementGuid>dcc1fe5e-658e-4a63-a96e-996225790fed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a4650087-662a-474a-bc2b-45c75b401a86</webElementGuid>
+      <webElementGuid>083956d9-0137-4c5e-a912-79589457bc44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>5d47a5d7-ddb7-4bf9-a4d3-92d89dac5c19</webElementGuid>
+      <webElementGuid>a6acef10-0f25-443a-89ed-0e646ac48c20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cec95d05-68d5-4bc7-afbb-e44df7866b0b</webElementGuid>
+      <webElementGuid>a4ad0324-9576-49cf-bb38-2f442cb1fe81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6c608438-8550-4a72-bca2-0656a77d91f0</webElementGuid>
+      <webElementGuid>bea15adc-0ee3-4439-bc4e-fc23a88bfe10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3a03710e-2f13-4f21-9c8b-0b105ad8cc3e</webElementGuid>
+      <webElementGuid>f3a25a21-50be-44c8-a822-ffb0a4177077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0bead38d-a5af-4739-977e-020e915ea588</webElementGuid>
+      <webElementGuid>5d486f26-d136-497b-b43f-ebeb78519b8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>50727cf1-90dd-4532-84b9-385cb4283ebb</webElementGuid>
+      <webElementGuid>39a36670-b009-49a2-8fa8-900e50fff64c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0a30f732-b186-4efd-a008-d908c3a03e26</webElementGuid>
+      <webElementGuid>a9200ce8-e55e-498c-99d7-4446301876e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6388ff4d-7597-4add-aa69-140991e4cd5d</webElementGuid>
+      <webElementGuid>44057359-5d4f-4607-b62c-400c9b2c0f1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,15 +117,15 @@
       <name>x</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e6c146bb-ac09-4039-b0fa-1d5acdf28443</webElementGuid>
+      <webElementGuid>b9fe89f4-85d1-49f9-8efc-3c8f49b4fee0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>361</value>
-      <webElementGuid>e5e911d0-3176-44aa-93d6-538bf6285fb4</webElementGuid>
+      <value>1435</value>
+      <webElementGuid>2b3c085d-943e-4e40-a4c6-ba8035e3f137</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1344</value>
-      <webElementGuid>a6649990-2690-4684-baa9-45553f0aaa5f</webElementGuid>
+      <webElementGuid>5017b4e2-8c96-4988-943e-08972c06ef11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,15 +141,15 @@
       <name>height</name>
       <type>Main</type>
       <value>1074</value>
-      <webElementGuid>33df3051-cd79-4c36-af81-95bd8906e454</webElementGuid>
+      <webElementGuid>052f0713-8679-4e16-9dad-d49c65b662d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[0,361][1344,1435]</value>
-      <webElementGuid>dd1300c2-06e2-473c-bb7a-0d3d25b580cf</webElementGuid>
+      <value>[0,1435][1344,2509]</value>
+      <webElementGuid>e8f2eda1-6b51-4fce-95c4-5f645beca08f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>cbf00436-9a18-4ded-9269-f396a3fd80c2</webElementGuid>
+      <webElementGuid>8c8294c1-ddee-47d1-a7a3-ef47a52d9982</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -165,57 +165,57 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>e194699e-fdf3-4b25-856b-0cdd007084c0</webElementGuid>
+      <webElementGuid>723db04c-c23c-41a0-a115-aa52c0f73a5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]</value>
-      <webElementGuid>dd1a66f9-2fec-404d-922d-bfee5ea59daa</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[2]/android.view.ViewGroup[1]</value>
+      <webElementGuid>7e14423e-b2b3-4823-bb32-e56017114ed9</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.view.ViewGroup' and (@text = '' or . = '')]</locator>
    <locatorCollection>
-      <entry>
-         <key>CLASS_NAME</key>
-         <value>android.view.ViewGroup</value>
-      </entry>
-      <entry>
-         <key>ACCESSIBILITY</key>
-      </entry>
-      <entry>
-         <key>NAME</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/androidx.viewpager.widget.ViewPager[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>ACCESSIBILITY</key>
+      </entry>
+      <entry>
+         <key>IOS_CLASS_CHAIN</key>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value>new UiSelector().className(&quot;android.view.ViewGroup&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
+      </entry>
+      <entry>
+         <key>NAME</key>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>CLASS_NAME</key>
+         <value>android.view.ViewGroup</value>
+      </entry>
+      <entry>
+         <key>ID</key>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
          <value>//*[@class = 'android.view.ViewGroup' and (@text = '' or . = '')]</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>IOS_CLASS_CHAIN</key>
-      </entry>
-      <entry>
-         <key>ID</key>
+         <key>IOS_PREDICATE_STRING</key>
       </entry>
       <entry>
          <key>IMAGE</key>
       </entry>
       <entry>
-         <key>IOS_PREDICATE_STRING</key>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
-         <value>new UiSelector().className(&quot;android.view.ViewGroup&quot;).packageName(&quot;com.example.didong_foodapp&quot;).enabled(true).clickable(false).longClickable(false).checkable(false).checked(false).focusable(false).focused(false).scrollable(false).selected(false).index(0)</value>
+         <key>ANDROID_VIEWTAG</key>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

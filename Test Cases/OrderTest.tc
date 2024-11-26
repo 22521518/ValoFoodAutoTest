@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>CommentTest2nd</name>
+   <name>OrderTest</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2f90a2b5-df26-4085-8c00-8717d52fc058</testCaseGuid>
+   <testCaseGuid>4155d1fb-db5e-4b41-baff-1632f384d41d</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>756af2ce-ef87-4608-90b8-b8e485dab53a</id>
+      <id>c33d6b7e-65d3-4f21-ab90-8fa17e35416e</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/CommentData</testDataId>
+      <testDataId>Data Files/OrderTest</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>756af2ce-ef87-4608-90b8-b8e485dab53a</testDataLinkId>
+      <testDataLinkId>c33d6b7e-65d3-4f21-ab90-8fa17e35416e</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>title</value>
-      <variableId>79b4ada7-be03-4777-a1fe-ca2b9afe5042</variableId>
+      <value>name</value>
+      <variableId>3376d56f-02c5-496f-92ee-f67de82f0bf1</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>756af2ce-ef87-4608-90b8-b8e485dab53a</testDataLinkId>
+      <testDataLinkId>c33d6b7e-65d3-4f21-ab90-8fa17e35416e</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>content</value>
-      <variableId>ad0f28e1-d094-4c18-afc7-b8acc29f0e1f</variableId>
+      <value>phone</value>
+      <variableId>c0afa329-3af9-460e-a4dd-0860d7832822</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>756af2ce-ef87-4608-90b8-b8e485dab53a</testDataLinkId>
+      <testDataLinkId>c33d6b7e-65d3-4f21-ab90-8fa17e35416e</testDataLinkId>
       <type>DATA_COLUMN</type>
-      <value>score</value>
-      <variableId>ad07ba10-a8cb-4c6c-abe4-4131eea4b8c2</variableId>
+      <value>address</value>
+      <variableId>13637593-7fb3-4056-8568-ac29edcc056b</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>756af2ce-ef87-4608-90b8-b8e485dab53a</testDataLinkId>
+      <testDataLinkId>c33d6b7e-65d3-4f21-ab90-8fa17e35416e</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>message</value>
-      <variableId>0bc3dc80-c20a-44c4-ac16-ddf6c441cfb1</variableId>
+      <variableId>e7e5f3d6-65f6-44b4-b6e1-b90b00d77b0c</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>79b4ada7-be03-4777-a1fe-ca2b9afe5042</id>
+      <id>3376d56f-02c5-496f-92ee-f67de82f0bf1</id>
       <masked>false</masked>
-      <name>title</name>
+      <name>name</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>ad0f28e1-d094-4c18-afc7-b8acc29f0e1f</id>
+      <id>c0afa329-3af9-460e-a4dd-0860d7832822</id>
       <masked>false</masked>
-      <name>content</name>
+      <name>phone</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>ad07ba10-a8cb-4c6c-abe4-4131eea4b8c2</id>
+      <id>13637593-7fb3-4056-8568-ac29edcc056b</id>
       <masked>false</masked>
-      <name>score</name>
+      <name>address</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>0bc3dc80-c20a-44c4-ac16-ddf6c441cfb1</id>
+      <id>e7e5f3d6-65f6-44b4-b6e1-b90b00d77b0c</id>
       <masked>false</masked>
       <name>message</name>
    </variable>

@@ -25,26 +25,39 @@ Mobile.startApplication('C:\\Users\\duong\\AndroidStudioProjects\\Food_App\\app\
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - SIGN IN'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Email'), 'duongminhhien14@gmail.com', 0)
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Email'), 'duongtx2@gmail.com', 0)
 
 Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Password'), '123456', 0)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - LOGIN'), 0)
 
+WebUI.delay(5)
+
 Mobile.tap(findTestObject('android.widget.FrameLayout (1)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.Button - Bnh lun'), 0)
+Mobile.scrollToText('Giỏ Hàng')
 
-WebUI.delay(3)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Tiu  (khng bt buc)'), title, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.ImageView'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - im (0-10)'), score, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - GI HNG'), 0)
 
-Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Vit trn 100 t, ng chnh t, ngn t vn ha  c im thng'), 
-    content, 0)
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - t hng'), 0)
 
-Mobile.tap(findTestObject('Object Repository/android.widget.TextView - Gi'), 0)
+Mobile.clearText(findTestObject('Object Repository/android.widget.EditText - Duong Trinh'), 0)
+
+Mobile.clearText(findTestObject('Object Repository/android.widget.EditText - 098998'), 0)
+
+Mobile.clearText(findTestObject('Object Repository/android.widget.EditText - Binh Duong'), 0)
+
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Nhp tn ca bn'), name, 0)
+
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Nhp s in thoi'), phone, 0)
+
+Mobile.setText(findTestObject('Object Repository/android.widget.EditText - Nhp a ch giao hng'), address, 0)
+
+Mobile.tap(findTestObject('Object Repository/android.widget.Button - Confirm'), 0)
 
 AppiumDriver<?> driver = MobileDriverFactory.getDriver()
 
@@ -54,7 +67,7 @@ if (toast == null) {
     KeywordUtil.markFailed('ERROR: Toast object not found!')
 }
 
-WebUI.delay(3)
+WebUI.delay(5)
 
 Mobile.closeApplication()
 

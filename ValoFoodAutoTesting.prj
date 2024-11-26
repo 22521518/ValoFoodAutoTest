@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.7.2</modifiedVersion>
+   <modifiedVersion>9.7.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\MinhTuan\git\ValoFoodAutoTest\ValoFoodAutoTesting.prj</projectFileLocation>
+   <projectFileLocation>D:\UDC\ValoFoodAutoTest\ValoFoodAutoTesting.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
