@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Restaurant_detail_vs_Restaurant_Location</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7419be4e-5a5e-427d-90ce-e890530bbf56</testCaseGuid>
+</TestCaseEntity>
